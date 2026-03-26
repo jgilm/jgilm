@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jgilm
 - 👀 I’m interested in Software Engineering and Engineering Management
-- 🌱 I’m currently learning Ruby
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
